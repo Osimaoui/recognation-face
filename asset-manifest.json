@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/recognation-face/static/css/main.9e4072b9.chunk.css",
+    "main.js": "/recognation-face/static/js/main.149d52ae.chunk.js",
+    "main.js.map": "/recognation-face/static/js/main.149d52ae.chunk.js.map",
+    "runtime-main.js": "/recognation-face/static/js/runtime-main.a864524a.js",
+    "runtime-main.js.map": "/recognation-face/static/js/runtime-main.a864524a.js.map",
+    "static/css/2.d811125f.chunk.css": "/recognation-face/static/css/2.d811125f.chunk.css",
+    "static/js/2.906ce053.chunk.js": "/recognation-face/static/js/2.906ce053.chunk.js",
+    "static/js/2.906ce053.chunk.js.map": "/recognation-face/static/js/2.906ce053.chunk.js.map",
+    "index.html": "/recognation-face/index.html",
+    "precache-manifest.543cf463feae61b501b2aea3dafddbab.js": "/recognation-face/precache-manifest.543cf463feae61b501b2aea3dafddbab.js",
+    "service-worker.js": "/recognation-face/service-worker.js",
+    "static/css/2.d811125f.chunk.css.map": "/recognation-face/static/css/2.d811125f.chunk.css.map",
+    "static/css/main.9e4072b9.chunk.css.map": "/recognation-face/static/css/main.9e4072b9.chunk.css.map",
+    "static/js/2.906ce053.chunk.js.LICENSE.txt": "/recognation-face/static/js/2.906ce053.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a864524a.js",
+    "static/css/2.d811125f.chunk.css",
+    "static/js/2.906ce053.chunk.js",
+    "static/css/main.9e4072b9.chunk.css",
+    "static/js/main.149d52ae.chunk.js"
+  ]
+}
