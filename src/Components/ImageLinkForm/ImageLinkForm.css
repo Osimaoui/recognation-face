@@ -1,0 +1,6 @@
+.form{
+    width: 700px;
+    background: #2b5876;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #4e4376, #2b5876);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #4e4376, #2b5876);
+}
