@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9e139a6d25d508258e003cce746a74cb",
+    "revision": "2f31b55072ff4dd9cea842ed4ea76642",
     "url": "/recognation-face/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/recognation-face/static/css/2.d811125f.chunk.css"
   },
   {
-    "revision": "753082edac45dfd427ff",
+    "revision": "aedf049f935eb7459317",
     "url": "/recognation-face/static/css/main.9e4072b9.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/recognation-face/static/js/2.906ce053.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "753082edac45dfd427ff",
-    "url": "/recognation-face/static/js/main.58c6654e.chunk.js"
+    "revision": "aedf049f935eb7459317",
+    "url": "/recognation-face/static/js/main.7fdea519.chunk.js"
   },
   {
     "revision": "a8373e3a8b7f3de1b435",
