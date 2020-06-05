@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/recognation-face/static/css/main.9e4072b9.chunk.css",
-    "main.js": "/recognation-face/static/js/main.61d56538.chunk.js",
-    "main.js.map": "/recognation-face/static/js/main.61d56538.chunk.js.map",
+    "main.js": "/recognation-face/static/js/main.f291eae2.chunk.js",
+    "main.js.map": "/recognation-face/static/js/main.f291eae2.chunk.js.map",
     "runtime-main.js": "/recognation-face/static/js/runtime-main.a864524a.js",
     "runtime-main.js.map": "/recognation-face/static/js/runtime-main.a864524a.js.map",
     "static/css/2.d811125f.chunk.css": "/recognation-face/static/css/2.d811125f.chunk.css",
     "static/js/2.906ce053.chunk.js": "/recognation-face/static/js/2.906ce053.chunk.js",
     "static/js/2.906ce053.chunk.js.map": "/recognation-face/static/js/2.906ce053.chunk.js.map",
     "index.html": "/recognation-face/index.html",
-    "precache-manifest.adc35bff0c3fbc6bc6f8c3fcd30d0f97.js": "/recognation-face/precache-manifest.adc35bff0c3fbc6bc6f8c3fcd30d0f97.js",
+    "precache-manifest.c8a0c7ff8b31bcc6d192340a9b0f7064.js": "/recognation-face/precache-manifest.c8a0c7ff8b31bcc6d192340a9b0f7064.js",
     "service-worker.js": "/recognation-face/service-worker.js",
     "static/css/2.d811125f.chunk.css.map": "/recognation-face/static/css/2.d811125f.chunk.css.map",
     "static/css/main.9e4072b9.chunk.css.map": "/recognation-face/static/css/main.9e4072b9.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.d811125f.chunk.css",
     "static/js/2.906ce053.chunk.js",
     "static/css/main.9e4072b9.chunk.css",
-    "static/js/main.61d56538.chunk.js"
+    "static/js/main.f291eae2.chunk.js"
   ]
 }
